@@ -73,7 +73,9 @@ Revisa la salida en tiempo real en el panel derecho de la consola. Al finalizar,
 
 📚 Documentación y Archivos del Proyecto
 
-AUDIT_TOOL_GUIDE.md: Guía técnica completa, matriz de 21 comandos y código fuente base.
+Contex.md: Guía técnica completa, matriz de 21 comandos y código fuente base.
+
+Comandos.md: Guia de comandos a seguir para la herramientas.
 
 Agents.md: Directrices operativas y límites para agentes de IA que colaboren en el desarrollo.
 
