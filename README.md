@@ -1,6 +1,8 @@
 🛡️ ZecSec
 
-ZecSec es una aplicación de escritorio nativa para Ubuntu / Linux Mint diseñada para automatizar y estandarizar flujos de trabajo en reconocimiento, escaneo de vulnerabilidades y auditorías de seguridad.
+ZecSec es una aplicación de escritorio nativa para Ubuntu / Linux Mint diseñada para automatizar y estandarizar flujos de trabajo en reconocimiento, escaneo de vulnerabilidades y auditorías de seguridad. 
+
+El desarrollador no se hace responsable del mal uso, daños o actividades ilegales que terceros puedan realizar con este software.
 
 La herramienta orquesta la ejecución secuencial de comandos de red y web mediante una interfaz gráfica moderna, mostrando logs en tiempo real y organizando todos los reportes de resultados de forma aislada por objetivo.
 

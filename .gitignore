@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Resultados de auditoría generados en el directorio actual
+recon_*/
